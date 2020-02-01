@@ -1,19 +1,14 @@
 # weird-websites-fall-2020
 ## making a mess with html, css, and js
 
+
+### aesthetics of the web
+
 http://bloopdance.com/
 http://whichlight.com/rising/
 event handlers
 
-<video>
-  
-responsiveness
-
 viewport meta
-
-open graph tags
-
-browser capatability
 
 css filters
 
@@ -21,7 +16,30 @@ css transforms
 
 hover effects
 
+### Politics of the web
+
 reading MDN
+
+how the web changes
+
+browser capatability
+
+google, mozilla, apple
+
+w3C AMP 
+
+
+### hypertext, hypermedia
+
+<video>
+  
+responsiveness
+
+user-editable, user-shareable tricks
+
+drag and drop
+
+### web hacking
 
 using the inspector to watch tv for free
 
@@ -33,8 +51,14 @@ browser extensions
 
 stealing html & css
 
-user-editable, user-shareable tricks
 
-drag and drop
+### webpage situated in a landscape:
 
+link in bio
+
+urls
+
+open graph tags
+
+twitter bots
 
