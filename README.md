@@ -2,6 +2,9 @@
 ## making a mess with html, css, and js
 
 
+### what is the web?
+
+
 ### aesthetics of the web
 
 http://bloopdance.com/
