@@ -19,6 +19,8 @@ css filters
 
 css transforms
 
+hover effects
+
 reading MDN
 
 using the inspector to watch tv for free
@@ -32,5 +34,7 @@ browser extensions
 stealing html & css
 
 user-editable, user-shareable tricks
+
+drag and drop
 
 
