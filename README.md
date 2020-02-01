@@ -1,5 +1,5 @@
 # weird-websites-fall-2020
-## making a mess with html, css, and js
+## making a mess with html.
 
 
 ### what is the web?
