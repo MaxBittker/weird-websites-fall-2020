@@ -68,4 +68,4 @@ twitter bots
 
 
 
-
+`document.querySelectorAll('.js-drop-cont').forEach(a=>a.classList.add("js-drop--active"))`
