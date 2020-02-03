@@ -44,7 +44,7 @@ drag and drop
 
 ### web hacking
 
-using the inspector to watch tv for free
+using the inspector to delete and edit 
 
 adblockers
 
@@ -64,4 +64,8 @@ urls
 open graph tags
 
 twitter bots
+
+
+
+
 
