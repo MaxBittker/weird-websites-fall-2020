@@ -1,0 +1,32 @@
+Goals for a class:
+
+
+Teach core computer interface production skills, situate these skills within students existing creative interests & practice, and make connections to history & larger landscape of computation.
+
+
+Core Skills:
+    prototyping with software
+   		composing pieces towards an effect
+   		understanding constraints, constrained creativity
+   		debugging, error literacy, documentation literacy
+   		
+	html, css
+	file hosting, servers, what is a browser
+	interactive media, event handling, javascript, canvas
+		
+
+Connections:
+	incorperate student-collected media (mp3, mp4, png, jpg, txt, etc) 
+	software as a tool to tell your story
+	what do you want to communicate?
+		
+
+Larger Landscape:
+	role of computer in 
+		communcation
+		creativity
+	economics of the web 
+	politics of the web (w3c)
+	Apple/Google/Microsoft
+	platforms, APIs, and walled gardens
+
