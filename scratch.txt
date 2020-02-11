@@ -1,14 +1,14 @@
 Goals for a class:
 
-
-Teach core computer interface production skills, situate these skills within students existing creative interests & practice, and make connections to history & larger landscape of computation.
-
+Teach core skills of computer interface implementation & design.
+Situate these skills within students existing creative interests & practice.
+Make connections to the history, contemporary landscape, and future of media.
 
 Core Skills:
-    prototyping with software
-   		composing pieces towards an effect
-   		understanding constraints, constrained creativity
+    prototyping with software:
+   		constrained creativity, learning to design around platform constraints
    		debugging, error literacy, documentation literacy
+		effective faking
    		
 	html, css
 	file hosting, servers, what is a browser
