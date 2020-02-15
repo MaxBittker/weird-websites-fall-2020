@@ -1,0 +1,26 @@
+NETWORKED MEDIA
+Taught by Shawn Van Every
+
+The network has become a fundamental medium for interactivity. It makes possible our interaction with machines, data, and, most importantly, other people. Though the base interaction it supports is simple, a client sends a request to a server, which replies; an incredible variety of systems can be and have been built on top of it. An equally impressive body of media theory has also arisen around it's use.
+
+This hybrid theory and technology course will be 50% project driven technical work and 50% theory and discussion. The technical work will will utilize JavaScript as both a client and server side programming language to build creative systems on the web. Technical topics will include server and client web frameworks, such as Express and Angular, HTML, CSS, templating, and databases. The theory portion of the course will include reading and discussion of past and current media theory texts that relate to the networks of today; included in this will be works by Marshal Mcluhan, Wendy Chun, Lev Manovich, Philip Agre, Tiziana Terranova, and more. 
+
+In short, this course will be about developing full-stack web applications (such as anything from the beginnings of Google, YouTube, and Twitter to class registration systems and other purpose built system) as well as thinking, reading, and discussing the implications with a culture and media theory perspective.
+
+ALWAYS ON, ALWAYS CONNECTED
+Taught by Shawn Van Every
+
+With their always on and always connected nature, mobile devices (phones and tablets) have become the center of our connected self. They offer us the ability to access the network anywhere at anytime, enabling us to share our experiences and share in the experiences of others. They are also starting to emerge as the hub of an emerging set of smart personal accessories such as watches, glasses and jewelry. In this class, we'll examine the current state-of-the art in mobile technology and smart devices. We’ll focus on developing applications using Cordova, a set of cross-platform APIs for creating mobile applications with HTML, CSS, and JavaScript as well as connecting to and interacting other devices using BlueTooth. ICM level programming experience is required. 
+
+
+HACKING THE BROWSER
+Taught by Cory Forsyth
+
+Web browsers were originally only for displaying web pages, but over the years they have become supercharged all-powerful web execution machines. In this class we’ll explore using experimental new browser capabilities and HTML5 APIs to build small web projects that augment and subvert the traditional browsing experience. In class we will look at the mechanics of Chrome extensions, bookmarklets, Chrome Apps, APIs such as: Service Workers, Battery Status, Geolocation, full-screen-mode, notifications, accelerometer usage, video camera access, speech recognition and text-to-speech. Class workshops will include topics such as building one’s own ad blocker, programmatically replacing text and images on a website, making sites that respond to external events (such as location, battery life, weather), and creating a motion-based intrusion-detector. Some experience with HTML, CSS, and JavaScript (ICM with p5.js or Commlab Web/Networked Media) are requirements for this class.
+
+DYNAMIC WEB - MOBILE
+Taught by Calli Higgins
+
+This 6-week, 2 point course will be focused on developing and deploying front-end mobile web applications using HTML5, CSS, JavaScript. Additional focus will be on capabilities suited to the mobile device such as the geolocation, touch interfaces, responsive design, sensor data (gyroscope, accelerometer, magnetometer), and media capture. Finally, the course will cover using the open-source Framework PhoneGap to export these web applications as cross-platform mobiles apps that can be distributed via Google Play and/or the Apple App Store.
+
+Some programming experience with JavaScript is required (ICM with p5.js or Comm Lab Web).
