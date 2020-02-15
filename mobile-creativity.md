@@ -28,31 +28,28 @@ Phone-First Creativity
 
 # Course Description
 
-From image macros to cell-phone novels, beat making apps, and screenshot bricolage, phones are the emerging edge of new artforms. It's time to take these tool seriously, and understand .
+From image macro bricolage to cell-phone novels, beat-maker apps, and TikTok trends; the phones is the site of not just media consuption, but for emerging forms of art making. It's time to take these tools seriously, and understand what the mobile touchscreen can offer to creatives.
 
-We will explore the emerging landscape of touch screen interfaces for creation.
-
-Thinking about what and who these tools empower, where their strengths are and what possibilities have not been realized.
+We will document and discuss the existing landscape of touchscreen interfaces for creation. Understanding the strengths, implications, and limitations of mobile creative tools will then empower us to imagine and realize their future.
 
 # What will student do?
 
-This course will be a dialog between exploration, analysis, and creation.
+This course is a dialog between exploring existing tools, and developing our own.
 
-Students will collaboratively research a wide range of creative tools made for phones, analyzing their design and sharing through making. We will compare these tools to their predecessors, reflecting on what and who they enable.
+Students will collaboratively research a wide range of mobile creative tools, analyzing their design and sharing through making. We will compare these tools to their big-screen predecessors, reflecting on what and who they enable.
 
-50% of classtime will be directing these findings toward the creation of new tools:
-Students will design and implement their own small creative tools.
-
-implementing interfaces with p5.js, html, and css.
-The class will cover
+50% of class time will be directing these findings towards the design and implementation of new tools.
+Students will develop a variety of creative interfaces, using javascript, html, and css.
+Introductory familiarity with these technologies is required, but we will build skills in rich interaction, mobile-first design, and effective prototyping.
 
 # How will the course be structured? How many weeks?
 
-4 credits I think?
+14 weeks.
+I want to be flexible and responsive to the students, but over that time we will conduct comprehensive research of the landscape of mobile existing creative tools, develop theory and principles about this space, and apply those principles towards a set of functional and sharable prototypes. Students can expect to strengthen core skill-sets in UX design and rich interface implementation.
 
 # Who will teach it?
 
-Me, Max Bittker! I'm an artist and engineer working with computational media. My tools and toys have been featured in the NYT and played by millions of people. I also bring years of industry experience building user experiences at startups and Google. I'm inspired by the potential for technology to be humane, playful, and liberatory.
+Me, Max Bittker! I'm an artist and engineer working with computational media. My work has been featured in the NYT and played by millions of people. I also bring years of industry experience building user experiences at startups and Google. I'm inspired by the potential for technology to be humane, playful, and liberatory, but critical perspectives and democratization of how it's produced are necessary to get there.
 
 # Is this for Graduate (ITP), Undergraduate (IMA) or both?
 
