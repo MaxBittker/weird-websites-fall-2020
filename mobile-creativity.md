@@ -52,15 +52,4 @@ Introductory familiarity with javascript, html, and css is required, but we will
 14 weeks -
 I want to be flexible and responsive to the students regarding the pace and format, but in that time we will build a body of research on the landscape of mobile existing creative tools, develop theory and principles about this space, and apply those principles towards a set of functional and shareable prototypes. Students can expect to strengthen core skill-sets in UX design and rich multimedia interface implementation.
 
-# Who will teach it?
 
-Me, Max Bittker! I'm an artist and engineer working with computational media. My work has been featured in the NYT and played by millions of people. I also bring years of industry experience building experimental user experiences at startups and Google. I'm inspired by the potential for technology to be humane, playful, and liberatory, but critical perspectives and democratization of production are necessary to get from here to there.here
-
-# Is this for Graduate (ITP), Undergraduate (IMA) or both?
-
-ITP
-
-# How do you know about ITP/IMA/Tisch/NYU?
-
-I'm familar with the school through the work & teaching of faculty members including Allison Parrish, Daniel Shiffman, and Mimi Onuoha.
-Additionally, through attending the Recurse Center and SFPC, I've met a lot of alumni and ben able to attend student showcases.
